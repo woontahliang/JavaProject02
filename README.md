@@ -9,6 +9,7 @@
 ## Technology
 - [Java SE17](https://jdk.java.net/17/)
 - [Apache TomEE v8.0.10](https://tomee.apache.org/download.html)
+- [MySQL Connector/J 8.0.28](https://dev.mysql.com/downloads/connector/j/)
 - [Eclipse IDE 2022-03 R](https://www.eclipse.org/downloads/packages/release/2022-03/r/eclipse-ide-enterprise-java-and-web-developers)
 - [Bootstrap v5.1.3](https://getbootstrap.com/docs/5.1/getting-started/download/)
-- [Google Chrome Version 100.0.4896](https://www.google.com/intl/en_sg/chrome/)
+- [Google Chrome version 100.0.4896](https://www.google.com/intl/en_sg/chrome/)
